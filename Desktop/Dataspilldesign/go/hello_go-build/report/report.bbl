@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{plauger:2000}
+P.J. Plauger, Meng Lee, David Musser, and Alexander~A. Stepanov.
+\newblock {\em C++ Standard Template Library}.
+\newblock Prentice Hall PTR, Upper Saddle River, NJ, USA, 1st edition, 2000.
+
+\bibitem{shell:1959}
+D.~L. Shell.
+\newblock A high-speed sorting procedure.
+\newblock {\em Commun. ACM}, 2(7):30--32, July 1959.
+
+\end{thebibliography}

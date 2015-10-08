@@ -1,0 +1,4 @@
+-I/Users/Jessie/Desktop/gtest-1.7.0/include
+-o
+/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/moc_goenginemodel.cpp
+/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/goenginemodel.h

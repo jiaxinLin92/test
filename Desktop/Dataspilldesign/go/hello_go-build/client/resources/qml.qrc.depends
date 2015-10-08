@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/gui.qml</file>
+        <file>gfx/wood_background.jpg</file>
+        <file>qml/SwipeArea.qml</file>
+        <file>qml/BoardSquare.qml</file>
+        <file>qml/BoardView.qml</file>
+        <file>qml/GameBoardPage.qml</file>
+        <file>qml/NewGamePage.qml</file>
+        <file>gfx/tokidoki-hello-kitty.jpg</file>
+    </qresource>
+</RCC>

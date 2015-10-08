@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="HelloGo" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\mylibrary\;CMake Files\report\;CMake Files\report\dat\;CMake Files\report\gfx\;CMake Files\client\;CMake Files\client\resources\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\Qt\;CMake Files\..\..\..\..\Qt\5.5\;CMake Files\..\..\..\..\Qt\5.5\clang_64\;CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\;CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\;CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\;CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Quick\;CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Qml\;CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test">
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 test" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_go_engine_tests">
+         <Option output="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/test_go_engine_tests" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/Jessie/Desktop/gtest-1.7.0/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 test_go_engine_tests" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_go_engine_tests/fast">
+         <Option output="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/test_go_engine_tests" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/Jessie/Desktop/gtest-1.7.0/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 test_go_engine_tests/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_test">
+         <Option output="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/test_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/Jessie/Desktop/gtest-1.7.0/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 test_test" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="test_test/fast">
+         <Option output="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/test_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/Jessie/Desktop/gtest-1.7.0/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 test_test/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mylibrary">
+         <Option output="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/libmylibrary.dylib" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/Jessie/Desktop/gtest-1.7.0/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 mylibrary" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mylibrary/fast">
+         <Option output="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/libmylibrary.dylib" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/Jessie/Desktop/gtest-1.7.0/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 mylibrary/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="report">
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/report" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/report/Makefile&quot;  VERBOSE=1 report" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/report/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/report/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/report/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="client">
+         <Option output="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/client" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_CORE_LIB" />
+            <Add option="-DQT_QUICK_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_QML_LIB" />
+            <Add option="-DQT_NETWORK_LIB" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/OpenGL.framework/Headers" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/Jessie/Desktop/gtest-1.7.0/include" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtCore.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtCore.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtGui.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtGui.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtNetwork.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtNetwork.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtQml.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtQml.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtQuick.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtQuick.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/mkspecs/macx-clang" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/Makefile&quot;  VERBOSE=1 client" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="client/fast">
+         <Option output="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/client" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_CORE_LIB" />
+            <Add option="-DQT_QUICK_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_QML_LIB" />
+            <Add option="-DQT_NETWORK_LIB" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/System/Library/Frameworks/OpenGL.framework/Headers" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/6.1.0/include" />
+            <Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
+            <Add directory="/Library/Frameworks" />
+            <Add directory="/System/Library/Frameworks" />
+            <Add directory="/Users/Jessie/Desktop/gtest-1.7.0/include" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtCore.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtCore.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtGui.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtGui.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtNetwork.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtNetwork.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtQml.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtQml.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtQuick.framework" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/lib/QtQuick.framework/Headers" />
+            <Add directory="/Users/Jessie/Qt/5.5/clang_64/mkspecs/macx-clang" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/Makefile&quot;  VERBOSE=1 client/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/client.cpp">
+         <Option target="client"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/goenginemodel.cpp">
+         <Option target="client"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/goenginemodel.h">
+         <Option target="client"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/guiapplication.cpp">
+         <Option target="client"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/guiapplication.h">
+         <Option target="client"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/qml.qrc">
+         <Option target="client"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/benchmark.h">
+         <Option target="mylibrary"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/go.cpp">
+         <Option target="mylibrary"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/go.h">
+         <Option target="mylibrary"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/player.cpp">
+         <Option target="mylibrary"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/player.h">
+         <Option target="mylibrary"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/randomai.cpp">
+         <Option target="mylibrary"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/randomai.h">
+         <Option target="mylibrary"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/tests/go_engine_tests.cpp">
+         <Option target="test_go_engine_tests"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/tests/test.cpp">
+         <Option target="test_test"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/report.tex">
+         <Option target="report"/>
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\mylibrary\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/mylibrary/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\mylibrary\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\report\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/bibliography.bib">
+          <Option virtualFolder="CMake Files\report\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\report\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/bibliography.bib">
+          <Option virtualFolder="CMake Files\report\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_vector_reserve.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_vector_stl.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_stl_sort.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_mylib_bubble.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_mylib_shell.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_vector_reserve.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_vector_stl.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_stl_sort.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_mylib_bubble.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_mylib_shell.dat">
+          <Option virtualFolder="CMake Files\report\dat\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/lena.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/lena.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\client\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\client\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/qml.qrc">
+          <Option virtualFolder="CMake Files\client\resources\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/qml.qrc">
+          <Option virtualFolder="CMake Files\client\resources\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Quick\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Quick\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Quick\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Quick\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QDDSPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QDDSPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Qml\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Qml\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QtQuick2Plugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Qml\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Qml\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Qml\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Qml/Qt5Qml_QtQuick2Plugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Qml\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Network/Qt5Network_QCoreWlanEnginePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Network/Qt5Network_QCoreWlanEnginePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/../../../../Qt/5.5/clang_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\Qt\5.5\clang_64\lib\cmake\Qt5Network\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,5 @@
+/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/CMakeFiles/client.dir
+/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/report/CMakeFiles/report.dir
+/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/CMakeFiles/test_go_engine_tests.dir
+/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/CMakeFiles/test_test.dir
+/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/mylibrary/CMakeFiles/mylibrary.dir
