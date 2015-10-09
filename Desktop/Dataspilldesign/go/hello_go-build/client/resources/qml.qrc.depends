@@ -8,5 +8,6 @@
         <file>qml/GameBoardPage.qml</file>
         <file>qml/NewGamePage.qml</file>
         <file>gfx/tokidoki-hello-kitty.jpg</file>
+        <file>gfx/20121014085204985.jpg</file>
     </qresource>
 </RCC>

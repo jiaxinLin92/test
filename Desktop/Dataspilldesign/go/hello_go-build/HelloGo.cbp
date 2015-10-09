@@ -362,7 +362,55 @@
       <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/lena.png">
           <Option virtualFolder="CMake Files\report\gfx\" />
       </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/capture_a.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/capture_b.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/suicide.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/ko.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/gas.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/finish.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/nogas.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/freedoms.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
       <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/lena.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/capture_a.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/capture_b.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/suicide.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/ko.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/gas.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/finish.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/nogas.png">
+          <Option virtualFolder="CMake Files\report\gfx\" />
+      </Unit>
+      <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/freedoms.png">
           <Option virtualFolder="CMake Files\report\gfx\" />
       </Unit>
       <Unit filename="/Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/CMakeLists.txt">

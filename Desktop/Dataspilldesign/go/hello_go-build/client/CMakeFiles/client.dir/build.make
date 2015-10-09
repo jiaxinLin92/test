@@ -73,6 +73,7 @@ client/qrc_qml.cpp: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/res
 client/qrc_qml.cpp: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/qml/GameBoardPage.qml
 client/qrc_qml.cpp: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/qml/NewGamePage.qml
 client/qrc_qml.cpp: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/gfx/tokidoki-hello-kitty.jpg
+client/qrc_qml.cpp: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/gfx/20121014085204985.jpg
 client/qrc_qml.cpp: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/qml.qrc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating qrc_qml.cpp"
 	cd /Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client && /Users/Jessie/Qt/5.5/clang_64/bin/rcc --name qml --output /Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/client/qrc_qml.cpp /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/client/resources/qml.qrc

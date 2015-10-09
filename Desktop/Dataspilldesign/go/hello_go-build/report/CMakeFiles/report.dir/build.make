@@ -63,6 +63,14 @@ report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/
 report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_mylib_bubble.dat
 report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/dat/benchmark_mylib_shell.dat
 report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/lena.png
+report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/capture_a.png
+report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/capture_b.png
+report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/suicide.png
+report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/ko.png
+report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/gas.png
+report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/finish.png
+report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/nogas.png
+report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/gfx/freedoms.png
 report/report.pdf: /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/report.tex
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating report.pdf"
 	cd /Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/report && pdflatex -output-directory=/Users/Jessie/Desktop/Dataspilldesign/go/hello_go-build/report /Users/Jessie/Desktop/Dataspilldesign/go/hello_go/report/report
